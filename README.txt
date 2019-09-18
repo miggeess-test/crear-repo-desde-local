@@ -11,3 +11,4 @@
 *8.- Se agragan los cambios a la carpeta temporal "git add"; se descirbe el cambio "git commit -m" 
 *9.- el archivo .gitignore nos ayuda a restringir la subida de archivos que no son necesarios para el proyecto
 10.- Esto viene desde local para planchar el cambio
+*10.- Se agrega un punto para que se planche desde local
