@@ -7,3 +7,5 @@
 *5.- Agregar un comentario para subir el proyecto	"git commit -m 'descripcion'"
 *6.- Sincornizar el proyecto a repositorio remoto	"git remote add origin https://github.com/miggeess-test/crear-repo-desde-local.git"
 *7.- Enviar los cambios		"git push origin master"
+
+*8.- Se agragan los cambios a la carpeta temporal "git add"; se descirbe el cambio "git commit -m" 
