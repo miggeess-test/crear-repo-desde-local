@@ -1,3 +1,4 @@
 # Aqui van los archivos que van a ser ignorados
 *.ocu
-/temp
+temp/
+*.exe
