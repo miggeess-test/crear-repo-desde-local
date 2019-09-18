@@ -9,3 +9,4 @@
 *7.- Enviar los cambios		"git push origin master"
 
 *8.- Se agragan los cambios a la carpeta temporal "git add"; se descirbe el cambio "git commit -m" 
+*9.- el archivo .gitignore nos ayuda a restringir la subida de archivos que no son necesarios para el proyecto
